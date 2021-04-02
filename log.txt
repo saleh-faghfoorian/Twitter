@@ -1,0 +1,607 @@
+2021-04-03T00:36:17.103997400  		Info		Application		Project started
+2021-04-03T00:36:48.875945600  		Info		getData		Connected to database
+2021-04-03T00:36:48.899932700  		Info		getData		E-mail addresses have gotten
+2021-04-03T00:36:56.077760300  		Info		getData		Connected to database
+2021-04-03T00:36:56.079780300  		Info		getData		Usernames have gotten
+2021-04-03T00:37:36.330297800  		Info		SignUp		User 0 registered
+2021-04-03T00:37:36.369278100  		Info		Submit		Connected to database
+2021-04-03T00:37:36.388287900  		Info		Submit		User 0 submitted into database
+2021-04-03T00:37:38.477800  		Info		getData		Connected to database
+2021-04-03T00:37:38.480798100  		Info		getData		tweets of user 10 have gotten
+2021-04-03T00:37:38.521775200  		Info		getData		Connected to database
+2021-04-03T00:37:38.525773  		Info		getData		Follow requests of user 10 have gotten
+2021-04-03T00:37:38.567751400  		Info		getData		Connected to database
+2021-04-03T00:37:38.571747300  		Info		getData		Notes of user 10 have gotten
+2021-04-03T00:37:38.611745600  		Info		getData		Connected to database
+2021-04-03T00:37:38.614721500  		Info		getData		Blocked users by user 10 have gotten
+2021-04-03T00:37:38.660697700  		Info		getData		Connected to database
+2021-04-03T00:37:38.663696500  		Info		getData		Followers of user 10 have gotten
+2021-04-03T00:37:38.710667900  		Info		getData		Connected to database
+2021-04-03T00:37:38.713666  		Info		getData		Followings of user 10 have gotten
+2021-04-03T00:37:38.749647200  		Info		getData		Connected to database
+2021-04-03T00:37:38.749647200  		Info		getData		Chats have gotten
+2021-04-03T00:37:55.581607  		Info		getData		Connected to database
+2021-04-03T00:37:55.585604300  		Info		getData		User 7 have gotten
+2021-04-03T00:37:55.619585300  		Info		getData		Connected to database
+2021-04-03T00:37:55.621583100  		Info		getData		Blocked users by user 7 have gotten
+2021-04-03T00:37:55.664559500  		Info		getData		Connected to database
+2021-04-03T00:37:55.667560900  		Info		getData		User 7 have gotten
+2021-04-03T00:37:55.713532900  		Info		getData		Connected to database
+2021-04-03T00:37:55.715529400  		Info		getData		Blocked users by user 7 have gotten
+2021-04-03T00:37:55.760506  		Info		getData		Connected to database
+2021-04-03T00:37:55.762504300  		Info		getData		User 7 have gotten
+2021-04-03T00:37:55.799483400  		Info		getData		Connected to database
+2021-04-03T00:37:55.802480800  		Info		getData		Blocked users by user 7 have gotten
+2021-04-03T00:37:55.835463500  		Info		getData		Connected to database
+2021-04-03T00:37:55.837460  		Info		getData		User 7 have gotten
+2021-04-03T00:37:55.872441100  		Info		getData		Connected to database
+2021-04-03T00:37:55.873439300  		Info		getData		Blocked users by user 7 have gotten
+2021-04-03T00:37:55.909418900  		Info		getData		Connected to database
+2021-04-03T00:37:55.911419200  		Info		getData		User 7 have gotten
+2021-04-03T00:37:56.059784500  		Info		getData		Connected to database
+2021-04-03T00:37:56.062782800  		Info		getData		Blocked users by user 7 have gotten
+2021-04-03T00:38:14.155418900  		Info		getData		Connected to database
+2021-04-03T00:38:14.158418800  		Info		getData		Search done and users found
+2021-04-03T00:38:22.494769300  		Info		getData		Connected to database
+2021-04-03T00:38:22.496769300  		Info		getData		Search done and users found
+2021-04-03T00:38:22.534745500  		Info		getData		Connected to database
+2021-04-03T00:38:22.537744300  		Info		getData		User 7 have gotten
+2021-04-03T00:38:22.581718600  		Info		getData		Connected to database
+2021-04-03T00:38:22.584715800  		Info		getData		Blocked users by user 7 have gotten
+2021-04-03T00:38:25.923057400  		Info		getData		Connected to database
+2021-04-03T00:38:25.925037800  		Info		getData		Followers of user 7 have gotten
+2021-04-03T00:38:25.963014300  		Info		getData		Connected to database
+2021-04-03T00:38:25.966033300  		Info		getData		Followings of user 7 have gotten
+2021-04-03T00:38:47.768455300  		Info		Submit		Connected to database
+2021-04-03T00:38:47.771453500  		Info		Submit		User 10 followed user 7
+2021-04-03T00:39:05.473319  		Info		Settings		Page of user 10 is now private
+2021-04-03T00:39:07.022545200  		Info		Submit		Connected to database
+2021-04-03T00:39:07.029544700  		Info		Submit		Privacy changed
+2021-04-03T00:39:21.905115600  		Info		Submit		Connected to database
+2021-04-03T00:39:21.912129700  		Info		Submit		last seen mode of user 10 changed
+2021-04-03T00:39:32.024324900  		Info		Submit		Connected to database
+2021-04-03T00:39:32.203219200  		Info		Submit		Last seen of user 10 submitted
+2021-04-03T00:39:32.204219700  		Info		Commands		User 10 logged out
+2021-04-03T00:39:35.177518500  		Info		LogIn		Connected to database
+2021-04-03T00:39:35.179516900  		Info		LogIn		username of the user checked
+2021-04-03T00:39:35.225490400  		Info		getData		Connected to database
+2021-04-03T00:39:35.227488900  		Info		getData		User 7 have gotten
+2021-04-03T00:39:37.287313300  		Info		LogIn		User 7 logged in
+2021-04-03T00:39:39.323146100  		Info		getData		Connected to database
+2021-04-03T00:39:39.330143  		Info		getData		tweets of user 7 have gotten
+2021-04-03T00:39:39.365142800  		Info		getData		Connected to database
+2021-04-03T00:39:39.367123400  		Info		getData		Follow requests of user 7 have gotten
+2021-04-03T00:39:39.403120400  		Info		getData		Connected to database
+2021-04-03T00:39:39.448075800  		Info		getData		Connected to database
+2021-04-03T00:39:39.487053300  		Info		getData		Connected to database
+2021-04-03T00:39:39.536023700  		Info		getData		Connected to database
+2021-04-03T00:39:39.540031700  		Info		getData		User 7 have gotten
+2021-04-03T00:39:39.546019200  		Info		getData		tweet 25 has gotten
+2021-04-03T00:39:39.599987  		Info		getData		Connected to database
+2021-04-03T00:39:39.646961300  		Info		getData		Connected to database
+2021-04-03T00:39:39.694933  		Info		getData		Connected to database
+2021-04-03T00:39:39.696932500  		Info		getData		User 7 have gotten
+2021-04-03T00:39:39.699929700  		Info		getData		tweet 25 has gotten
+2021-04-03T00:39:39.701929400  		Info		getData		Notes of user 7 have gotten
+2021-04-03T00:39:39.750902300  		Info		getData		Connected to database
+2021-04-03T00:39:39.752899200  		Info		getData		Blocked users by user 7 have gotten
+2021-04-03T00:39:39.794875800  		Info		getData		Connected to database
+2021-04-03T00:39:39.796873800  		Info		getData		Followers of user 7 have gotten
+2021-04-03T00:39:39.837850900  		Info		getData		Connected to database
+2021-04-03T00:39:39.839849200  		Info		getData		Followings of user 7 have gotten
+2021-04-03T00:39:39.882825200  		Info		getData		Connected to database
+2021-04-03T00:39:39.935795200  		Info		getData		Connected to database
+2021-04-03T00:39:39.937794600  		Info		getData		User 9 have gotten
+2021-04-03T00:39:39.979770200  		Info		getData		Connected to database
+2021-04-03T00:39:39.981768200  		Info		getData		User 9 have gotten
+2021-04-03T00:39:40.023747400  		Info		getData		Connected to database
+2021-04-03T00:39:40.025743200  		Info		getData		User 7 have gotten
+2021-04-03T00:39:40.064721800  		Info		getData		Connected to database
+2021-04-03T00:39:40.067719400  		Info		getData		User 9 have gotten
+2021-04-03T00:39:40.111695500  		Info		getData		Connected to database
+2021-04-03T00:39:40.112693200  		Info		getData		User 7 have gotten
+2021-04-03T00:39:40.157669  		Info		getData		Connected to database
+2021-04-03T00:39:40.159669200  		Info		getData		User 7 have gotten
+2021-04-03T00:39:40.302585200  		Info		getData		Connected to database
+2021-04-03T00:39:40.304586500  		Info		getData		User 9 have gotten
+2021-04-03T00:39:40.342562400  		Info		getData		Connected to database
+2021-04-03T00:39:40.345562900  		Info		getData		User 9 have gotten
+2021-04-03T00:39:40.385536900  		Info		getData		Connected to database
+2021-04-03T00:39:40.387536  		Info		getData		User 7 have gotten
+2021-04-03T00:39:40.435508600  		Info		getData		Connected to database
+2021-04-03T00:39:40.437507200  		Info		getData		User 9 have gotten
+2021-04-03T00:39:40.484482  		Info		getData		Connected to database
+2021-04-03T00:39:40.485480300  		Info		getData		User 7 have gotten
+2021-04-03T00:39:40.527458500  		Info		getData		Connected to database
+2021-04-03T00:39:40.530455400  		Info		getData		User 7 have gotten
+2021-04-03T00:39:40.569432700  		Info		getData		Connected to database
+2021-04-03T00:39:40.571430500  		Info		getData		User 9 have gotten
+2021-04-03T00:39:40.606411600  		Info		getData		Connected to database
+2021-04-03T00:39:40.608409200  		Info		getData		User 7 have gotten
+2021-04-03T00:39:40.648387300  		Info		getData		Connected to database
+2021-04-03T00:39:40.651385700  		Info		getData		User 9 have gotten
+2021-04-03T00:39:40.690363100  		Info		getData		Connected to database
+2021-04-03T00:39:40.692364100  		Info		getData		User 9 have gotten
+2021-04-03T00:39:40.736337300  		Info		getData		Connected to database
+2021-04-03T00:39:40.738335800  		Info		getData		User 7 have gotten
+2021-04-03T00:39:40.782310500  		Info		getData		Connected to database
+2021-04-03T00:39:40.784310  		Info		getData		User 9 have gotten
+2021-04-03T00:39:40.918232800  		Info		getData		Connected to database
+2021-04-03T00:39:40.920231600  		Info		getData		User 7 have gotten
+2021-04-03T00:39:40.958209700  		Info		getData		Connected to database
+2021-04-03T00:39:40.960211500  		Info		getData		User 9 have gotten
+2021-04-03T00:39:40.999186  		Info		getData		Connected to database
+2021-04-03T00:39:41.000185200  		Info		getData		User 7 have gotten
+2021-04-03T00:39:41.037164700  		Info		getData		Connected to database
+2021-04-03T00:39:41.038166400  		Info		getData		User 9 have gotten
+2021-04-03T00:39:41.080139400  		Info		getData		Connected to database
+2021-04-03T00:39:41.082160200  		Info		getData		User 7 have gotten
+2021-04-03T00:39:41.226056  		Info		getData		Connected to database
+2021-04-03T00:39:41.228055600  		Info		getData		User 9 have gotten
+2021-04-03T00:39:41.267035200  		Info		getData		Connected to database
+2021-04-03T00:39:41.269032100  		Info		getData		User 7 have gotten
+2021-04-03T00:39:41.310008  		Info		getData		Connected to database
+2021-04-03T00:39:41.312007400  		Info		getData		User 7 have gotten
+2021-04-03T00:39:41.356981300  		Info		getData		Connected to database
+2021-04-03T00:39:41.357983200  		Info		getData		User 9 have gotten
+2021-04-03T00:39:41.398957600  		Info		getData		Connected to database
+2021-04-03T00:39:41.401956200  		Info		getData		User 9 have gotten
+2021-04-03T00:39:41.437934300  		Info		getData		Connected to database
+2021-04-03T00:39:41.439938  		Info		getData		User 9 have gotten
+2021-04-03T00:39:41.475913600  		Info		getData		Connected to database
+2021-04-03T00:39:41.476915500  		Info		getData		User 9 have gotten
+2021-04-03T00:39:41.519887800  		Info		getData		Connected to database
+2021-04-03T00:39:41.521886600  		Info		getData		User 9 have gotten
+2021-04-03T00:39:41.558865800  		Info		getData		Connected to database
+2021-04-03T00:39:41.560864700  		Info		getData		User 9 have gotten
+2021-04-03T00:39:41.605839200  		Info		getData		Connected to database
+2021-04-03T00:39:41.607837100  		Info		getData		User 9 have gotten
+2021-04-03T00:39:41.644817400  		Info		getData		Connected to database
+2021-04-03T00:39:41.646815600  		Info		getData		User 9 have gotten
+2021-04-03T00:39:41.696787400  		Info		getData		Connected to database
+2021-04-03T00:39:41.698788100  		Info		getData		User 9 have gotten
+2021-04-03T00:39:41.741761700  		Info		getData		Connected to database
+2021-04-03T00:39:41.744759800  		Info		getData		User 9 have gotten
+2021-04-03T00:39:41.787734600  		Info		getData		Connected to database
+2021-04-03T00:39:41.789733400  		Info		getData		User 9 have gotten
+2021-04-03T00:39:41.825713700  		Info		getData		Connected to database
+2021-04-03T00:39:41.828712800  		Info		getData		User 9 have gotten
+2021-04-03T00:39:41.867690700  		Info		getData		Connected to database
+2021-04-03T00:39:41.869688  		Info		getData		User 9 have gotten
+2021-04-03T00:39:41.905668100  		Info		getData		Connected to database
+2021-04-03T00:39:41.907666100  		Info		getData		User 9 have gotten
+2021-04-03T00:39:41.908666100  		Info		getData		Chats have gotten
+2021-04-03T00:39:44.978908200  		Info		getData		Connected to database
+2021-04-03T00:39:44.980907900  		Info		getData		Notifications have gotten
+2021-04-03T00:39:45.023884400  		Info		DeleteData		Connected to database
+2021-04-03T00:39:45.026881800  		Info		DeleteData		Notifications of user 7 deleted
+2021-04-03T00:39:52.184785400  		Info		getData		Connected to database
+2021-04-03T00:39:52.187783300  		Info		getData		User 9 have gotten
+2021-04-03T00:39:52.233757300  		Info		getData		Connected to database
+2021-04-03T00:39:52.235755400  		Info		getData		User 10 have gotten
+2021-04-03T00:40:23.391928500  		Info		getData		Connected to database
+2021-04-03T00:40:23.393926200  		Info		getData		tweets of user 10 have gotten
+2021-04-03T00:40:23.431904300  		Info		getData		Connected to database
+2021-04-03T00:40:23.433905  		Info		getData		Follow requests of user 10 have gotten
+2021-04-03T00:40:23.567825400  		Info		getData		Connected to database
+2021-04-03T00:40:23.569824800  		Info		getData		Notes of user 10 have gotten
+2021-04-03T00:40:23.604804800  		Info		getData		Connected to database
+2021-04-03T00:40:23.607802300  		Info		getData		Blocked users by user 10 have gotten
+2021-04-03T00:40:23.648778900  		Info		getData		Connected to database
+2021-04-03T00:40:23.650779700  		Info		getData		Followers of user 10 have gotten
+2021-04-03T00:40:23.688756600  		Info		getData		Connected to database
+2021-04-03T00:40:23.690755500  		Info		getData		Followings of user 10 have gotten
+2021-04-03T00:40:23.735729700  		Info		getData		Connected to database
+2021-04-03T00:40:23.738728600  		Info		getData		Chats have gotten
+2021-04-03T00:40:38.890028400  		Info		Submit		Connected to database
+2021-04-03T00:40:38.890028400  		Info		Submit		User 7 sent a follow request for user 10
+2021-04-03T00:40:52.048512400  		Info		Submit		Connected to database
+2021-04-03T00:40:52.054603  		Info		Submit		Last seen of user 7 submitted
+2021-04-03T00:40:52.054603  		Info		Commands		User 7 logged out
+2021-04-03T00:40:57.621009700  		Info		LogIn		Connected to database
+2021-04-03T00:41:32.015632700  		Info		LogIn		username of the user checked
+2021-04-03T00:41:32.180308100  		Info		getData		Connected to database
+2021-04-03T00:41:32.182287  		Info		getData		User 10 have gotten
+2021-04-03T00:41:34.926745400  		Info		LogIn		User 10 logged in
+2021-04-03T00:41:36.989701  		Info		getData		Connected to database
+2021-04-03T00:41:36.991700200  		Info		getData		tweets of user 10 have gotten
+2021-04-03T00:41:37.022683800  		Info		getData		Connected to database
+2021-04-03T00:41:37.024702900  		Info		getData		Follow requests of user 10 have gotten
+2021-04-03T00:41:37.055668100  		Info		getData		Connected to database
+2021-04-03T00:41:37.057663  		Info		getData		Notes of user 10 have gotten
+2021-04-03T00:41:37.089665600  		Info		getData		Connected to database
+2021-04-03T00:41:37.092643500  		Info		getData		Blocked users by user 10 have gotten
+2021-04-03T00:41:37.123642900  		Info		getData		Connected to database
+2021-04-03T00:41:37.125623  		Info		getData		Followers of user 10 have gotten
+2021-04-03T00:41:37.271649100  		Info		getData		Connected to database
+2021-04-03T00:41:37.274646900  		Info		getData		Followings of user 10 have gotten
+2021-04-03T00:41:37.314624900  		Info		getData		Connected to database
+2021-04-03T00:41:37.317622800  		Info		getData		Chats have gotten
+2021-04-03T00:41:41.683981300  		Info		getData		Connected to database
+2021-04-03T00:41:41.685983100  		Info		getData		Notifications have gotten
+2021-04-03T00:41:48.980179100  		Info		getData		Connected to database
+2021-04-03T00:41:48.981180700  		Info		getData		User 7 have gotten
+2021-04-03T00:41:55.391584800  		Info		getData		Connected to database
+2021-04-03T00:41:55.392584200  		Info		getData		User 7 have gotten
+2021-04-03T00:42:02.738757400  		Info		getData		Connected to database
+2021-04-03T00:42:02.743755200  		Info		getData		tweets of user 7 have gotten
+2021-04-03T00:42:02.776733200  		Info		getData		Connected to database
+2021-04-03T00:42:02.778733600  		Info		getData		Follow requests of user 7 have gotten
+2021-04-03T00:42:02.810713900  		Info		getData		Connected to database
+2021-04-03T00:42:02.943869500  		Info		getData		Connected to database
+2021-04-03T00:42:02.978849100  		Info		getData		Connected to database
+2021-04-03T00:42:03.143790300  		Info		getData		Connected to database
+2021-04-03T00:42:03.145789200  		Info		getData		User 7 have gotten
+2021-04-03T00:42:03.147788900  		Info		getData		tweet 25 has gotten
+2021-04-03T00:42:03.180775400  		Info		getData		Connected to database
+2021-04-03T00:42:03.211763500  		Info		getData		Connected to database
+2021-04-03T00:42:03.250729700  		Info		getData		Connected to database
+2021-04-03T00:42:03.252728200  		Info		getData		User 7 have gotten
+2021-04-03T00:42:03.255729700  		Info		getData		tweet 25 has gotten
+2021-04-03T00:42:03.256728300  		Info		getData		Notes of user 7 have gotten
+2021-04-03T00:42:03.291705900  		Info		getData		Connected to database
+2021-04-03T00:42:03.293705200  		Info		getData		Blocked users by user 7 have gotten
+2021-04-03T00:42:03.325685700  		Info		getData		Connected to database
+2021-04-03T00:42:03.327685500  		Info		getData		Followers of user 7 have gotten
+2021-04-03T00:42:03.363664900  		Info		getData		Connected to database
+2021-04-03T00:42:03.365663  		Info		getData		Followings of user 7 have gotten
+2021-04-03T00:42:03.402642900  		Info		getData		Connected to database
+2021-04-03T00:42:03.438621700  		Info		getData		Connected to database
+2021-04-03T00:42:03.440621300  		Info		getData		User 9 have gotten
+2021-04-03T00:42:03.474602700  		Info		getData		Connected to database
+2021-04-03T00:42:03.476600200  		Info		getData		User 9 have gotten
+2021-04-03T00:42:03.634310300  		Info		getData		Connected to database
+2021-04-03T00:42:03.636307  		Info		getData		User 7 have gotten
+2021-04-03T00:42:03.668271200  		Info		getData		Connected to database
+2021-04-03T00:42:03.670288  		Info		getData		User 9 have gotten
+2021-04-03T00:42:03.702249400  		Info		getData		Connected to database
+2021-04-03T00:42:03.704267500  		Info		getData		User 7 have gotten
+2021-04-03T00:42:03.736230300  		Info		getData		Connected to database
+2021-04-03T00:42:03.738229100  		Info		getData		User 7 have gotten
+2021-04-03T00:42:03.912977200  		Info		getData		Connected to database
+2021-04-03T00:42:03.915976500  		Info		getData		User 9 have gotten
+2021-04-03T00:42:03.967945  		Info		getData		Connected to database
+2021-04-03T00:42:03.969947200  		Info		getData		User 9 have gotten
+2021-04-03T00:42:04.002924700  		Info		getData		Connected to database
+2021-04-03T00:42:04.004923700  		Info		getData		User 7 have gotten
+2021-04-03T00:42:04.178797700  		Info		getData		Connected to database
+2021-04-03T00:42:04.182795  		Info		getData		User 9 have gotten
+2021-04-03T00:42:04.217796100  		Info		getData		Connected to database
+2021-04-03T00:42:04.219794700  		Info		getData		User 7 have gotten
+2021-04-03T00:42:04.383619  		Info		getData		Connected to database
+2021-04-03T00:42:04.385617400  		Info		getData		User 7 have gotten
+2021-04-03T00:42:04.421599400  		Info		getData		Connected to database
+2021-04-03T00:42:04.423595500  		Info		getData		User 9 have gotten
+2021-04-03T00:42:04.458575700  		Info		getData		Connected to database
+2021-04-03T00:42:04.460576300  		Info		getData		User 7 have gotten
+2021-04-03T00:42:04.491559  		Info		getData		Connected to database
+2021-04-03T00:42:04.493556600  		Info		getData		User 9 have gotten
+2021-04-03T00:42:04.527536400  		Info		getData		Connected to database
+2021-04-03T00:42:04.529535500  		Info		getData		User 9 have gotten
+2021-04-03T00:42:04.684628600  		Info		getData		Connected to database
+2021-04-03T00:42:04.686608800  		Info		getData		User 7 have gotten
+2021-04-03T00:42:04.719589600  		Info		getData		Connected to database
+2021-04-03T00:42:04.721607400  		Info		getData		User 9 have gotten
+2021-04-03T00:42:04.754589300  		Info		getData		Connected to database
+2021-04-03T00:42:04.756570  		Info		getData		User 7 have gotten
+2021-04-03T00:42:04.787569500  		Info		getData		Connected to database
+2021-04-03T00:42:04.789550400  		Info		getData		User 9 have gotten
+2021-04-03T00:42:04.821549800  		Info		getData		Connected to database
+2021-04-03T00:42:04.823546200  		Info		getData		User 7 have gotten
+2021-04-03T00:42:04.865505200  		Info		getData		Connected to database
+2021-04-03T00:42:04.867507300  		Info		getData		User 9 have gotten
+2021-04-03T00:42:04.912479300  		Info		getData		Connected to database
+2021-04-03T00:42:04.914475500  		Info		getData		User 7 have gotten
+2021-04-03T00:42:04.959451500  		Info		getData		Connected to database
+2021-04-03T00:42:04.961449600  		Info		getData		User 9 have gotten
+2021-04-03T00:42:05.000426500  		Info		getData		Connected to database
+2021-04-03T00:42:05.002424900  		Info		getData		User 7 have gotten
+2021-04-03T00:42:05.038406200  		Info		getData		Connected to database
+2021-04-03T00:42:05.040403600  		Info		getData		User 7 have gotten
+2021-04-03T00:42:05.075385400  		Info		getData		Connected to database
+2021-04-03T00:42:05.077382100  		Info		getData		User 9 have gotten
+2021-04-03T00:42:05.241061900  		Info		getData		Connected to database
+2021-04-03T00:42:05.243060800  		Info		getData		User 9 have gotten
+2021-04-03T00:42:05.405908400  		Info		getData		Connected to database
+2021-04-03T00:42:05.407907100  		Info		getData		User 9 have gotten
+2021-04-03T00:42:05.448883700  		Info		getData		Connected to database
+2021-04-03T00:42:05.450886800  		Info		getData		User 9 have gotten
+2021-04-03T00:42:05.482867300  		Info		getData		Connected to database
+2021-04-03T00:42:05.484884500  		Info		getData		User 9 have gotten
+2021-04-03T00:42:05.516844800  		Info		getData		Connected to database
+2021-04-03T00:42:05.518843300  		Info		getData		User 9 have gotten
+2021-04-03T00:42:05.556822500  		Info		getData		Connected to database
+2021-04-03T00:42:05.559822400  		Info		getData		User 9 have gotten
+2021-04-03T00:42:05.596798600  		Info		getData		Connected to database
+2021-04-03T00:42:05.598797400  		Info		getData		User 9 have gotten
+2021-04-03T00:42:05.631779600  		Info		getData		Connected to database
+2021-04-03T00:42:05.633777800  		Info		getData		User 9 have gotten
+2021-04-03T00:42:05.664760400  		Info		getData		Connected to database
+2021-04-03T00:42:05.666758600  		Info		getData		User 9 have gotten
+2021-04-03T00:42:05.697740800  		Info		getData		Connected to database
+2021-04-03T00:42:05.699741  		Info		getData		User 9 have gotten
+2021-04-03T00:42:05.880201800  		Info		getData		Connected to database
+2021-04-03T00:42:05.883196500  		Info		getData		User 9 have gotten
+2021-04-03T00:42:05.927170700  		Info		getData		Connected to database
+2021-04-03T00:42:05.929169300  		Info		getData		User 9 have gotten
+2021-04-03T00:42:05.965149500  		Info		getData		Connected to database
+2021-04-03T00:42:05.967147900  		Info		getData		User 9 have gotten
+2021-04-03T00:42:05.967147900  		Info		getData		Chats have gotten
+2021-04-03T00:42:15.779650900  		Info		getData		Connected to database
+2021-04-03T00:42:15.781630700  		Info		getData		Notifications have gotten
+2021-04-03T00:42:17.025199400  		Info		getData		Connected to database
+2021-04-03T00:42:17.028227600  		Info		getData		User 7 have gotten
+2021-04-03T00:42:20.116038  		Info		getData		Connected to database
+2021-04-03T00:42:20.118058100  		Info		getData		User 7 have gotten
+2021-04-03T00:42:26.661391300  		Info		getData		Connected to database
+2021-04-03T00:42:26.665389800  		Info		getData		tweets of user 7 have gotten
+2021-04-03T00:42:26.697392500  		Info		getData		Connected to database
+2021-04-03T00:42:26.699392100  		Info		getData		Follow requests of user 7 have gotten
+2021-04-03T00:42:26.731373400  		Info		getData		Connected to database
+2021-04-03T00:42:26.764333100  		Info		getData		Connected to database
+2021-04-03T00:42:26.796314900  		Info		getData		Connected to database
+2021-04-03T00:42:26.831296600  		Info		getData		Connected to database
+2021-04-03T00:42:26.833293100  		Info		getData		User 7 have gotten
+2021-04-03T00:42:26.835296  		Info		getData		tweet 25 has gotten
+2021-04-03T00:42:26.871271600  		Info		getData		Connected to database
+2021-04-03T00:42:26.916246800  		Info		getData		Connected to database
+2021-04-03T00:42:26.958244200  		Info		getData		Connected to database
+2021-04-03T00:42:26.960220600  		Info		getData		User 7 have gotten
+2021-04-03T00:42:26.962220100  		Info		getData		tweet 25 has gotten
+2021-04-03T00:42:26.963220200  		Info		getData		Notes of user 7 have gotten
+2021-04-03T00:42:27.135094900  		Info		getData		Connected to database
+2021-04-03T00:42:27.139090600  		Info		getData		Blocked users by user 7 have gotten
+2021-04-03T00:42:27.177068  		Info		getData		Connected to database
+2021-04-03T00:42:27.179070300  		Info		getData		Followers of user 7 have gotten
+2021-04-03T00:42:27.211047800  		Info		getData		Connected to database
+2021-04-03T00:42:27.214046800  		Info		getData		Followings of user 7 have gotten
+2021-04-03T00:42:27.246049900  		Info		getData		Connected to database
+2021-04-03T00:42:27.279013  		Info		getData		Connected to database
+2021-04-03T00:42:27.281010900  		Info		getData		User 9 have gotten
+2021-04-03T00:42:27.313990200  		Info		getData		Connected to database
+2021-04-03T00:42:27.314989100  		Info		getData		User 9 have gotten
+2021-04-03T00:42:27.346970900  		Info		getData		Connected to database
+2021-04-03T00:42:27.348977300  		Info		getData		User 7 have gotten
+2021-04-03T00:42:27.379951600  		Info		getData		Connected to database
+2021-04-03T00:42:27.382950100  		Info		getData		User 9 have gotten
+2021-04-03T00:42:27.423927  		Info		getData		Connected to database
+2021-04-03T00:42:27.425925100  		Info		getData		User 7 have gotten
+2021-04-03T00:42:27.460906600  		Info		getData		Connected to database
+2021-04-03T00:42:27.462906  		Info		getData		User 7 have gotten
+2021-04-03T00:42:27.496885200  		Info		getData		Connected to database
+2021-04-03T00:42:27.498884200  		Info		getData		User 9 have gotten
+2021-04-03T00:42:27.532864100  		Info		getData		Connected to database
+2021-04-03T00:42:27.534862800  		Info		getData		User 9 have gotten
+2021-04-03T00:42:27.567843500  		Info		getData		Connected to database
+2021-04-03T00:42:27.568843300  		Info		getData		User 7 have gotten
+2021-04-03T00:42:27.603823300  		Info		getData		Connected to database
+2021-04-03T00:42:27.606821600  		Info		getData		User 9 have gotten
+2021-04-03T00:42:27.639803200  		Info		getData		Connected to database
+2021-04-03T00:42:27.641801700  		Info		getData		User 7 have gotten
+2021-04-03T00:42:27.674782200  		Info		getData		Connected to database
+2021-04-03T00:42:27.676782  		Info		getData		User 7 have gotten
+2021-04-03T00:42:27.840341  		Info		getData		Connected to database
+2021-04-03T00:42:27.842338600  		Info		getData		User 9 have gotten
+2021-04-03T00:42:27.874300300  		Info		getData		Connected to database
+2021-04-03T00:42:27.876299400  		Info		getData		User 7 have gotten
+2021-04-03T00:42:27.913280800  		Info		getData		Connected to database
+2021-04-03T00:42:27.916277  		Info		getData		User 9 have gotten
+2021-04-03T00:42:27.954255400  		Info		getData		Connected to database
+2021-04-03T00:42:27.956254300  		Info		getData		User 9 have gotten
+2021-04-03T00:42:27.993235300  		Info		getData		Connected to database
+2021-04-03T00:42:27.995235800  		Info		getData		User 7 have gotten
+2021-04-03T00:42:28.027214600  		Info		getData		Connected to database
+2021-04-03T00:42:28.029215900  		Info		getData		User 9 have gotten
+2021-04-03T00:42:28.062193400  		Info		getData		Connected to database
+2021-04-03T00:42:28.064195900  		Info		getData		User 7 have gotten
+2021-04-03T00:42:28.100171300  		Info		getData		Connected to database
+2021-04-03T00:42:28.102170900  		Info		getData		User 9 have gotten
+2021-04-03T00:42:28.137154100  		Info		getData		Connected to database
+2021-04-03T00:42:28.138168  		Info		getData		User 7 have gotten
+2021-04-03T00:42:28.305086400  		Info		getData		Connected to database
+2021-04-03T00:42:28.308086500  		Info		getData		User 9 have gotten
+2021-04-03T00:42:28.354079100  		Info		getData		Connected to database
+2021-04-03T00:42:28.356056500  		Info		getData		User 7 have gotten
+2021-04-03T00:42:28.392039700  		Info		getData		Connected to database
+2021-04-03T00:42:28.394038300  		Info		getData		User 9 have gotten
+2021-04-03T00:42:28.437013200  		Info		getData		Connected to database
+2021-04-03T00:42:28.440009800  		Info		getData		User 7 have gotten
+2021-04-03T00:42:28.488980400  		Info		getData		Connected to database
+2021-04-03T00:42:28.489980  		Info		getData		User 7 have gotten
+2021-04-03T00:42:28.525962900  		Info		getData		Connected to database
+2021-04-03T00:42:28.527958600  		Info		getData		User 9 have gotten
+2021-04-03T00:42:28.568935100  		Info		getData		Connected to database
+2021-04-03T00:42:28.570933100  		Info		getData		User 9 have gotten
+2021-04-03T00:42:28.604914200  		Info		getData		Connected to database
+2021-04-03T00:42:28.606913100  		Info		getData		User 9 have gotten
+2021-04-03T00:42:28.771429400  		Info		getData		Connected to database
+2021-04-03T00:42:28.773422900  		Info		getData		User 9 have gotten
+2021-04-03T00:42:28.804392400  		Info		getData		Connected to database
+2021-04-03T00:42:28.806387600  		Info		getData		User 9 have gotten
+2021-04-03T00:42:28.837370400  		Info		getData		Connected to database
+2021-04-03T00:42:28.839369500  		Info		getData		User 9 have gotten
+2021-04-03T00:42:28.871352100  		Info		getData		Connected to database
+2021-04-03T00:42:28.872351  		Info		getData		User 9 have gotten
+2021-04-03T00:42:28.912328700  		Info		getData		Connected to database
+2021-04-03T00:42:28.914326700  		Info		getData		User 9 have gotten
+2021-04-03T00:42:29.073676100  		Info		getData		Connected to database
+2021-04-03T00:42:29.075675600  		Info		getData		User 9 have gotten
+2021-04-03T00:42:29.233209  		Info		getData		Connected to database
+2021-04-03T00:42:29.235187500  		Info		getData		User 9 have gotten
+2021-04-03T00:42:29.278162500  		Info		getData		Connected to database
+2021-04-03T00:42:29.280187900  		Info		getData		User 9 have gotten
+2021-04-03T00:42:29.448353900  		Info		getData		Connected to database
+2021-04-03T00:42:29.450355900  		Info		getData		User 9 have gotten
+2021-04-03T00:42:29.491330100  		Info		getData		Connected to database
+2021-04-03T00:42:29.493328600  		Info		getData		User 9 have gotten
+2021-04-03T00:42:29.525308900  		Info		getData		Connected to database
+2021-04-03T00:42:29.527308400  		Info		getData		User 9 have gotten
+2021-04-03T00:42:29.528308  		Info		getData		Chats have gotten
+2021-04-03T00:42:41.677302100  		Info		Submit		Connected to database
+2021-04-03T00:42:41.847312100  		Info		Submit		User 10 rejected request of user 7
+2021-04-03T00:43:07.021342700  		Info		Submit		Connected to database
+2021-04-03T00:43:07.025339500  		Info		Submit		Last seen of user 10 submitted
+2021-04-03T00:43:07.025339500  		Info		Commands		User 10 logged out
+2021-04-03T00:43:11.427012700  		Info		LogIn		Connected to database
+2021-04-03T00:43:11.429005900  		Info		LogIn		username of the user checked
+2021-04-03T00:43:11.477978600  		Info		getData		Connected to database
+2021-04-03T00:43:11.479977700  		Info		getData		User 7 have gotten
+2021-04-03T00:43:13.697946300  		Info		LogIn		User 7 logged in
+2021-04-03T00:43:15.737915  		Info		getData		Connected to database
+2021-04-03T00:43:15.741913100  		Info		getData		tweets of user 7 have gotten
+2021-04-03T00:43:15.781892300  		Info		getData		Connected to database
+2021-04-03T00:43:15.782892300  		Info		getData		Follow requests of user 7 have gotten
+2021-04-03T00:43:15.958954600  		Info		getData		Connected to database
+2021-04-03T00:43:16.014926100  		Info		getData		Connected to database
+2021-04-03T00:43:16.061897200  		Info		getData		Connected to database
+2021-04-03T00:43:16.109869700  		Info		getData		Connected to database
+2021-04-03T00:43:16.110867500  		Info		getData		User 7 have gotten
+2021-04-03T00:43:16.112868  		Info		getData		tweet 25 has gotten
+2021-04-03T00:43:16.149848400  		Info		getData		Connected to database
+2021-04-03T00:43:16.187823100  		Info		getData		Connected to database
+2021-04-03T00:43:16.227800500  		Info		getData		Connected to database
+2021-04-03T00:43:16.229800700  		Info		getData		User 7 have gotten
+2021-04-03T00:43:16.231798100  		Info		getData		tweet 25 has gotten
+2021-04-03T00:43:16.232798300  		Info		getData		Notes of user 7 have gotten
+2021-04-03T00:43:16.271777600  		Info		getData		Connected to database
+2021-04-03T00:43:16.273773800  		Info		getData		Blocked users by user 7 have gotten
+2021-04-03T00:43:16.309754100  		Info		getData		Connected to database
+2021-04-03T00:43:16.312751800  		Info		getData		Followers of user 7 have gotten
+2021-04-03T00:43:16.356727800  		Info		getData		Connected to database
+2021-04-03T00:43:16.358725600  		Info		getData		Followings of user 7 have gotten
+2021-04-03T00:43:16.400702300  		Info		getData		Connected to database
+2021-04-03T00:43:16.435682500  		Info		getData		Connected to database
+2021-04-03T00:43:16.437682300  		Info		getData		User 9 have gotten
+2021-04-03T00:43:16.481656400  		Info		getData		Connected to database
+2021-04-03T00:43:16.483653800  		Info		getData		User 9 have gotten
+2021-04-03T00:43:16.530627700  		Info		getData		Connected to database
+2021-04-03T00:43:16.532626800  		Info		getData		User 7 have gotten
+2021-04-03T00:43:16.572604800  		Info		getData		Connected to database
+2021-04-03T00:43:16.574601900  		Info		getData		User 9 have gotten
+2021-04-03T00:43:16.615580400  		Info		getData		Connected to database
+2021-04-03T00:43:16.616579500  		Info		getData		User 7 have gotten
+2021-04-03T00:43:16.656556100  		Info		getData		Connected to database
+2021-04-03T00:43:16.659554800  		Info		getData		User 7 have gotten
+2021-04-03T00:43:16.700530800  		Info		getData		Connected to database
+2021-04-03T00:43:16.702529900  		Info		getData		User 9 have gotten
+2021-04-03T00:43:16.742508300  		Info		getData		Connected to database
+2021-04-03T00:43:16.744504200  		Info		getData		User 9 have gotten
+2021-04-03T00:43:16.885425700  		Info		getData		Connected to database
+2021-04-03T00:43:16.887423300  		Info		getData		User 7 have gotten
+2021-04-03T00:43:16.928409500  		Info		getData		Connected to database
+2021-04-03T00:43:16.930398500  		Info		getData		User 9 have gotten
+2021-04-03T00:43:16.970376  		Info		getData		Connected to database
+2021-04-03T00:43:16.972375200  		Info		getData		User 7 have gotten
+2021-04-03T00:43:17.019348300  		Info		getData		Connected to database
+2021-04-03T00:43:17.021346800  		Info		getData		User 7 have gotten
+2021-04-03T00:43:17.065321700  		Info		getData		Connected to database
+2021-04-03T00:43:17.066320900  		Info		getData		User 9 have gotten
+2021-04-03T00:43:17.103299500  		Info		getData		Connected to database
+2021-04-03T00:43:17.105298200  		Info		getData		User 7 have gotten
+2021-04-03T00:43:17.247217600  		Info		getData		Connected to database
+2021-04-03T00:43:17.248216400  		Info		getData		User 9 have gotten
+2021-04-03T00:43:17.383141500  		Info		getData		Connected to database
+2021-04-03T00:43:17.385138800  		Info		getData		User 9 have gotten
+2021-04-03T00:43:17.426115700  		Info		getData		Connected to database
+2021-04-03T00:43:17.428114700  		Info		getData		User 7 have gotten
+2021-04-03T00:43:17.471089700  		Info		getData		Connected to database
+2021-04-03T00:43:17.474087300  		Info		getData		User 9 have gotten
+2021-04-03T00:43:17.524059900  		Info		getData		Connected to database
+2021-04-03T00:43:17.527058500  		Info		getData		User 7 have gotten
+2021-04-03T00:43:17.579029  		Info		getData		Connected to database
+2021-04-03T00:43:17.581026800  		Info		getData		User 9 have gotten
+2021-04-03T00:43:17.622003700  		Info		getData		Connected to database
+2021-04-03T00:43:17.624001800  		Info		getData		User 7 have gotten
+2021-04-03T00:43:17.663980100  		Info		getData		Connected to database
+2021-04-03T00:43:17.665977100  		Info		getData		User 9 have gotten
+2021-04-03T00:43:17.706955300  		Info		getData		Connected to database
+2021-04-03T00:43:17.709951700  		Info		getData		User 7 have gotten
+2021-04-03T00:43:17.749930800  		Info		getData		Connected to database
+2021-04-03T00:43:17.751928800  		Info		getData		User 9 have gotten
+2021-04-03T00:43:17.786907800  		Info		getData		Connected to database
+2021-04-03T00:43:17.788907500  		Info		getData		User 7 have gotten
+2021-04-03T00:43:17.926828800  		Info		getData		Connected to database
+2021-04-03T00:43:17.928829900  		Info		getData		User 7 have gotten
+2021-04-03T00:43:17.966805600  		Info		getData		Connected to database
+2021-04-03T00:43:17.968804  		Info		getData		User 9 have gotten
+2021-04-03T00:43:18.010780900  		Info		getData		Connected to database
+2021-04-03T00:43:18.012778700  		Info		getData		User 9 have gotten
+2021-04-03T00:43:18.073744300  		Info		getData		Connected to database
+2021-04-03T00:43:18.076743200  		Info		getData		User 9 have gotten
+2021-04-03T00:43:18.219662200  		Info		getData		Connected to database
+2021-04-03T00:43:18.221659300  		Info		getData		User 9 have gotten
+2021-04-03T00:43:18.259637300  		Info		getData		Connected to database
+2021-04-03T00:43:18.261638400  		Info		getData		User 9 have gotten
+2021-04-03T00:43:18.299615900  		Info		getData		Connected to database
+2021-04-03T00:43:18.301614  		Info		getData		User 9 have gotten
+2021-04-03T00:43:18.342590500  		Info		getData		Connected to database
+2021-04-03T00:43:18.343590900  		Info		getData		User 9 have gotten
+2021-04-03T00:43:18.385566300  		Info		getData		Connected to database
+2021-04-03T00:43:18.387564400  		Info		getData		User 9 have gotten
+2021-04-03T00:43:18.423544  		Info		getData		Connected to database
+2021-04-03T00:43:18.425542  		Info		getData		User 9 have gotten
+2021-04-03T00:43:18.461523200  		Info		getData		Connected to database
+2021-04-03T00:43:18.463520800  		Info		getData		User 9 have gotten
+2021-04-03T00:43:18.507498300  		Info		getData		Connected to database
+2021-04-03T00:43:18.510495900  		Info		getData		User 9 have gotten
+2021-04-03T00:43:18.555469300  		Info		getData		Connected to database
+2021-04-03T00:43:18.557466500  		Info		getData		User 9 have gotten
+2021-04-03T00:43:18.593447400  		Info		getData		Connected to database
+2021-04-03T00:43:18.595445  		Info		getData		User 9 have gotten
+2021-04-03T00:43:18.630427100  		Info		getData		Connected to database
+2021-04-03T00:43:18.632423500  		Info		getData		User 9 have gotten
+2021-04-03T00:43:18.632423500  		Info		getData		Chats have gotten
+2021-04-03T00:43:22.123369  		Info		getData		Connected to database
+2021-04-03T00:43:22.125365800  		Info		getData		Notifications have gotten
+2021-04-03T00:43:22.160345400  		Info		DeleteData		Connected to database
+2021-04-03T00:43:22.161344500  		Info		DeleteData		Notifications of user 7 deleted
+2021-04-03T00:43:35.693583  		Info		getData		Connected to database
+2021-04-03T00:43:35.695579  		Info		getData		User 9 have gotten
+2021-04-03T00:43:35.733557600  		Info		getData		Connected to database
+2021-04-03T00:43:35.735555  		Info		getData		User 10 have gotten
+2021-04-03T00:43:37.490146900  		Info		getData		Connected to database
+2021-04-03T00:43:37.492145500  		Info		getData		tweets of user 10 have gotten
+2021-04-03T00:43:37.534123500  		Info		getData		Connected to database
+2021-04-03T00:43:37.536120100  		Info		getData		Follow requests of user 10 have gotten
+2021-04-03T00:43:37.673040800  		Info		getData		Connected to database
+2021-04-03T00:43:37.675040300  		Info		getData		Notes of user 10 have gotten
+2021-04-03T00:43:37.715018  		Info		getData		Connected to database
+2021-04-03T00:43:37.716019600  		Info		getData		Blocked users by user 10 have gotten
+2021-04-03T00:43:37.751998400  		Info		getData		Connected to database
+2021-04-03T00:43:37.753994600  		Info		getData		Followers of user 10 have gotten
+2021-04-03T00:43:37.797970  		Info		getData		Connected to database
+2021-04-03T00:43:37.799968700  		Info		getData		Followings of user 10 have gotten
+2021-04-03T00:43:37.836947200  		Info		getData		Connected to database
+2021-04-03T00:43:37.838948400  		Info		getData		Chats have gotten
+2021-04-03T00:43:38.841372900  		Info		Submit		Connected to database
+2021-04-03T00:43:38.841372900  		Info		Submit		User 7 sent a follow request for user 10
+2021-04-03T00:43:46.618460700  		Info		getData		Connected to database
+2021-04-03T00:43:46.620459200  		Info		getData		User 10 have gotten
+2021-04-03T00:44:08.900181300  		Info		getData		Connected to database
+2021-04-03T00:44:08.902179500  		Info		getData		User 9 have gotten
+2021-04-03T00:44:12.648036400  		Info		getData		Connected to database
+2021-04-03T00:44:12.650035100  		Info		getData		User 9 have gotten
+2021-04-03T00:44:14.186155700  		Info		getData		Connected to database
+2021-04-03T00:44:14.189154  		Info		getData		User 9 have gotten
+2021-04-03T00:44:15.052660500  		Info		getData		Connected to database
+2021-04-03T00:44:15.054659700  		Info		getData		User 9 have gotten
+2021-04-03T00:44:15.892179500  		Info		getData		Connected to database
+2021-04-03T00:44:15.894180  		Info		getData		User 9 have gotten
+2021-04-03T00:44:17.900051700  		Info		getData		Connected to database
+2021-04-03T00:44:17.902050800  		Info		getData		User 9 have gotten
+2021-04-03T00:44:19.980840100  		Info		getData		Connected to database
+2021-04-03T00:44:19.982839700  		Info		getData		User 9 have gotten
+2021-04-03T00:44:23.074070400  		Info		getData		Connected to database
+2021-04-03T00:44:23.076068700  		Info		getData		User 9 have gotten
+2021-04-03T00:44:23.710704800  		Info		getData		Connected to database
+2021-04-03T00:44:23.712704400  		Info		getData		User 9 have gotten
+2021-04-03T00:44:24.449283400  		Info		getData		Connected to database
+2021-04-03T00:44:24.450282  		Info		getData		User 9 have gotten
+2021-04-03T00:44:24.898026600  		Info		getData		Connected to database
+2021-04-03T00:44:24.900024600  		Info		getData		User 9 have gotten
+2021-04-03T00:44:25.451710900  		Info		getData		Connected to database
+2021-04-03T00:44:25.453708100  		Info		getData		User 9 have gotten
+2021-04-03T00:44:32.696564700  		Info		Submit		Connected to database
+2021-04-03T00:44:48.384585900  		Info		Submit		Connected to database
+2021-04-03T00:44:48.387582800  		Info		Submit		Last seen of user 7 submitted
+2021-04-03T00:44:48.388582700  		Info		Commands		User 7 logged out
